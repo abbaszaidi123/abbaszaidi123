@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abbas Zaidi</h1>
-Full-Stack Software Engineer | Building Scalable Applications with Python, Ruby, Salesforce and Servicenow
+Senior Software Engineer | Building Scalable Applications with Python, Ruby, Java and PHP.
 
 ## About Me
-I am Abbas Zaidi, a Senior Full Stack Developer with over 8 years of experience currently working at AAC1 Enterprises Inc. I possess deep expertise in Python, Ruby on Rails, Salesforce, and ServiceNow, enabling me to build robust and scalable software solutions. My technical proficiency spans both backend and frontend development, allowing me to design and implement seamless user experiences and efficient server-side logic, including developing RESTful APIs for smooth system integration. I have a strong background in leading development teams and collaborating with cross-functional teams to drive projects from conception to deployment. Additionally, I am proficient in using Docker for containerization and streamlining deployment processes, and I am passionate about leveraging technology to solve complex problems while continuously seeking opportunities to expand my skill set.
+I am Abbas Zaidi, a Senior Software Engineer with over 8 years of experience, currently working at AAC1 Enterprises Inc. I specialize in backend and full-stack development using Python (Django, Flask), Ruby (Ruby on Rails), Java (Spring Boot), and PHP (Laravel, Symfony), enabling me to build scalable, maintainable, and high-performance applications. My expertise includes designing RESTful APIs, integrating third-party services, and building end-to-end systems that support complex business logic and seamless user interactions. I have a proven track record of leading engineering teams, collaborating across departments, and driving projects from initial design through to production deployment. I’m also experienced with Docker for containerization, CI/CD pipelines, and infrastructure automation. Passionate about clean code, system design, and continuous learning, I strive to deliver impactful software solutions that align with both user and business needs.
 
 ## Development
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23ED8C00.svg?style=for-the-badge&logo=php&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 
 ### Platforms & Frameworks
