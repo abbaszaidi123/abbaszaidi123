@@ -9,15 +9,23 @@ I am Abbas Zaidi, a Senior Software Engineer with over 8 years of experience, cu
 ### AAC1 Enterprises Inc — December 2022 – Present
 ### Remote
 
-### Led the architecture and development of full-stack web applications using Python (Django, Flask) and Ruby on Rails, building robust APIs and scalable backend services to support B2B platforms and internal business systems.
-### Designed and implemented RESTful APIs for seamless integration between microservices and third-party systems, enabling real-time data synchronization and improved customer experience.
-### Developed new features in existing Java (Spring Boot) enterprise applications, focusing on performance optimization, multi-threaded processing, and secure API endpoints.
-### Worked on PHP (Laravel, Symfony) projects for clients needing rapid development cycles, incorporating authentication, payment gateway integrations, and backend dashboards.
-### Utilized Docker and Docker Compose to containerize applications, streamlining development environments and deployment workflows across staging and production environments.
-### Set up and maintained CI/CD pipelines using tools such as GitHub Actions and Jenkins to ensure fast, reliable releases with automated testing and quality checks.
-### Embraced learning new technologies and frameworks per project requirements, including experimenting with TypeScript, GraphQL, and frontend technologies to support full-stack initiatives.
-### Actively participated in code reviews, mentoring junior developers, and promoting best practices in clean code, system design, and DevOps culture.
-Collaborated closely with cross-functional teams — including QA, design, and product managers — to deliver projects on time and aligned with business goals.
+Led full-stack architecture and development using Python (Django, Flask) and Ruby on Rails for scalable B2B platforms and internal systems.
+
+Built and maintained RESTful APIs for seamless microservice and third-party integrations.
+
+Enhanced existing Java (Spring Boot) applications with performance tuning, concurrency handling, and secure endpoints.
+
+Delivered rapid development solutions in PHP (Laravel, Symfony), including authentication, payment integrations, and admin dashboards.
+
+Containerized applications using Docker and Docker Compose, optimizing deployment across environments.
+
+Implemented CI/CD pipelines with GitHub Actions and Jenkins for automated testing and smooth release cycles.
+
+Adapted to project-specific tech stacks, including TypeScript, GraphQL, and modern frontend tools.
+
+Contributed to code reviews, mentored junior developers, and advocated for clean code and scalable system design.
+
+Collaborated with cross-functional teams to deliver high-impact features aligned with business objectives.
 
 ## Development
 ### Languages
