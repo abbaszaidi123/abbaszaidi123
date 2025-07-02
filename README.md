@@ -9,23 +9,15 @@ I am Abbas Zaidi, a Senior Software Engineer with over 8 years of experience, cu
 ### AAC1 Enterprises Inc — December 2022 – Present
 ### Remote
 
-Led full-stack architecture and development using Python (Django, Flask) and Ruby on Rails for scalable B2B platforms and internal systems.
-
-Built and maintained RESTful APIs for seamless microservice and third-party integrations.
-
-Enhanced existing Java (Spring Boot) applications with performance tuning, concurrency handling, and secure endpoints.
-
-Delivered rapid development solutions in PHP (Laravel, Symfony), including authentication, payment integrations, and admin dashboards.
-
-Containerized applications using Docker and Docker Compose, optimizing deployment across environments.
-
-Implemented CI/CD pipelines with GitHub Actions and Jenkins for automated testing and smooth release cycles.
-
-Adapted to project-specific tech stacks, including TypeScript, GraphQL, and modern frontend tools.
-
-Contributed to code reviews, mentored junior developers, and advocated for clean code and scalable system design.
-
-Collaborated with cross-functional teams to deliver high-impact features aligned with business objectives.
+* Led full-stack architecture and development using Python (Django, Flask) and Ruby on Rails for scalable B2B platforms and internal systems.
+* Built and maintained RESTful APIs for seamless microservice and third-party integrations.
+* Enhanced existing Java (Spring Boot) applications with performance tuning, concurrency handling, and secure endpoints.
+* Delivered rapid development solutions in PHP (Laravel, Symfony), including authentication, payment integrations, and admin dashboards.
+* Containerized applications using Docker and Docker Compose, optimizing deployment across environments.
+* Implemented CI/CD pipelines with GitHub Actions and Jenkins for automated testing and smooth release cycles.
+* Adapted to project-specific tech stacks, including TypeScript, GraphQL, and modern frontend tools.
+* Contributed to code reviews, mentored junior developers, and advocated for clean code and scalable system design.
+* Collaborated with cross-functional teams to deliver high-impact features aligned with business objectives.
 
 ## Development
 ### Languages
